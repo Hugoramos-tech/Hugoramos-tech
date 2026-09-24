@@ -56,30 +56,11 @@ estado:    Aprendiendo y construyendo cada día 🔨
 
 </div>
 
----
-
-### 📊 Estadísticas de GitHub
-
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=hugoramoslopez10-bot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoramoslopez10-bot&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E57F7&height=200&section=header&text=Hugo%20Ramos%20López&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20Web%20%7C%20DAW&descAlignY=55&descSize=20" alt="Hugo Ramos López — Desarrollador Web | DAW" />
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hugoramoslopez10-bot&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 📈 Actividad
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hugoramoslopez10-bot&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=6E57F7&center=true&vCenter=true&width=620&lines=Estudiante+de+DAW+%7C+Sistemas+Informáticos;Apasionado+por+el+desarrollo+web+%F0%9F%8C%90;Explorando+el+mundo+de+la+programación+%F0%9F%9A%80;Always+learning%2C+always+growing+%E2%9C%A8" alt="Estudiante de DAW, aprendiendo desarrollo web" />
 
 </div>
 
@@ -87,8 +68,51 @@ estado:    Aprendiendo y construyendo cada día 🔨
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=hugoramoslopez10-bot&color=6E57F7&style=for-the-badge&label=VISITAS+AL+PERFIL)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E57F7&height=120&section=footer" />
+### 🧑‍💻 Sobre mí
 
 </div>
+
+```yaml
+nombre: Hugo Ramos López
+ciclo: Desarrollo de Aplicaciones Web (DAW)
+módulo: Sistemas Informáticos (SI)
+curso: 2025 / 2026
+ubicación: España 🇪🇸
+contacto: hugoramoslopez10@gmail.com
+estado: Aprendiendo y construyendo cada día 🔨
+🛠️ Tecnologías y herramientas
+<div align="center">
+
+Frontend
+   
+Backend y lenguajes
+  
+Sistemas y entornos
+   
+Herramientas
+    
+</div>
+
+📊 Estadísticas de GitHub
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=hugoramoslopez10-bot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoramoslopez10-bot&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+
+
+<img src="https://streak-stats.demolab.com?user=hugoramoslopez10-bot&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones en GitHub" />
+
+</div>
+
+📈 Actividad
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hugoramoslopez10-bot&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad de GitHub" />
+
+</div>
+
+<div align="center">
+
+¡Gracias por visitar mi perfil! 😊
+</div>
+```
