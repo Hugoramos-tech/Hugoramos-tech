@@ -69,7 +69,7 @@ Estas son algunas de las tecnologías y herramientas con las que estoy aprendien
 
 - Reforzando mis fundamentos de **HTML, CSS y JavaScript**.
 - Practicando programación con **Java y Python**.
-- Aprendiendo a gestionar proyectos y cambios con **Git y GitHub**.
+- Aprendiendo todo lo relacionado con AI.
 - Explorando sistemas operativos y entornos virtualizados.
 - Subiendo proyectos y prácticas a medida que avanzo en DAW.
 
