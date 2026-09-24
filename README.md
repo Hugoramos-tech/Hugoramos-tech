@@ -73,23 +73,6 @@ Estas son algunas de las tecnologías y herramientas con las que estoy aprendien
 - Explorando sistemas operativos y entornos virtualizados.
 - Subiendo proyectos y prácticas a medida que avanzo en DAW.
 
-## 📊 Mi actividad en GitHub
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=hugoramoslopez10-bot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub de Hugo" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoramoslopez10-bot&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados en GitHub" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=hugoramoslopez10-bot&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones en GitHub" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hugoramoslopez10-bot&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad de GitHub" />
-
-</div>
-
 ## 📫 Contacto
 
 ¿Quieres contactar conmigo? Puedes escribirme por correo:
