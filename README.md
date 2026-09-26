@@ -11,7 +11,7 @@
   <a href="mailto:hugoramoslopez10@gmail.com">
     <img src="https://img.shields.io/badge/Contactar%20por%20email-6E57F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Contactar por correo electrónico">
   </a>
-  <a href="https://github.com/hugoramoslopez10-bot?tab=repositories">
+  <a href="https://github.com/Hugoramos-tech?tab=repositories">
     <img src="https://img.shields.io/badge/Mis%20repositorios-242938?style=for-the-badge&logo=github&logoColor=white" alt="Ver mis repositorios">
   </a>
 </div>
