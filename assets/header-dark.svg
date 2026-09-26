@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Hugo Ramos López</title>
+  <desc id="desc">Cabecera en tonos grafito y violeta para un estudiante de Desarrollo de Aplicaciones Web.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#171625"/><stop offset="1" stop-color="#211D38"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#B3A7FF"/><stop offset="1" stop-color="#806EFF"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#A99AFF" opacity=".2"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/><rect width="1200" height="320" rx="28" fill="url(#grid)"/>
+  <circle cx="1050" cy="68" r="150" fill="#806EFF" opacity=".11"/><circle cx="1090" cy="290" r="120" fill="#9B8CFF" opacity=".1"/>
+  <path d="M890 0h310v320H980c40-74 42-152-90-320Z" fill="#A99AFF" opacity=".06"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="3" opacity=".78"><path d="m1002 104-34 36 34 36"/><path d="m1062 104 34 36-34 36"/><path d="m1047 94-28 92"/></g>
+  <rect x="78" y="72" width="5" height="176" rx="2.5" fill="url(#accent)"/>
+  <text x="112" y="145" fill="#F6F4FF" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700" letter-spacing="-.8">Hugo Ramos López</text>
+  <text x="114" y="188" fill="#B3A7FF" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600">DESARROLLADOR WEB EN FORMACIÓN</text>
+  <text x="114" y="222" fill="#C9C5D8" font-family="Arial, Helvetica, sans-serif" font-size="18">Estudiante de Desarrollo de Aplicaciones Web</text>
+  <path d="M114 253h54" stroke="#A99AFF" stroke-width="3" stroke-linecap="round"/><circle cx="180" cy="253" r="3" fill="#A99AFF"/>
+</svg>
